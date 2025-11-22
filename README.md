@@ -1,9 +1,9 @@
 ## Hi there 👋
-**'Student/Hobbyist'**
+**`Student/Hobbyist`**
 
-This a school account for an embedded systems engineering student Adil Ary.
-- 🔭 I’m currently working on my study projects, like the BMS circuit.
-- 🌱 I’m currently learning the Finnish language, embedded engineering and a bit of sofware engineering.
+I am an Embedded System Engineering student that really likes Biology, but Fate itself drew somewhere else.
+- 🔭 I’m currently working on my student projects, like the BMS circuit.
+- 🌱 I’m currently learning the Finnish language, Kubernetes and a FPGA.
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdilAry&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
