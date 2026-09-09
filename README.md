@@ -1,6 +1,6 @@
 ## Hi there 👋
 **`Student/Hobbyist`**
 
-I am an Embedded System Engineering student that really likes Biology, but fate itself drew me somewhere else.
-- 🔭 I’m currently working on my student projects, like the BMS circuit.
-- 🌱 I’m currently learning the Finnish language, Kubernetes and some FPGA.
+I am an Embedded System Engineering student that is also interested in Biology and Security.
+- 🔭 I’m currently working on my personal projects, like my home-lab.
+- 🌱 I’m currently learning Linguistics and Reverse Engineering.
