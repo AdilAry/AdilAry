@@ -7,7 +7,7 @@ I build things from the board up: circuit simulation and PCB design, bare-metal 
 ### 🏆 Recent
 Consecutive Junction X Vaasa challenge winner.
 - **Junction X Vaasa 2026: VILPE challenge winner** (solo).
-  [Sense Coach](https://github.com/AdilAry/hack), [Demo]([STREAMLIT_LINK](https://vilpejunction.streamlit.app/))
+  [Sense Coach](https://github.com/AdilAry/hack), [Demo](https://vilpejunction.streamlit.app/)
 
 - **Junction X Vaasa 2025: VEO challenge winner** (team).
 
