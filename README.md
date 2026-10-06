@@ -18,4 +18,4 @@ Consecutive Junction X Vaasa challenge winner.
 - **Infra:** Proxmox VE home lab, self-hosted GitLab / Gitea
 
 ### 🌱 Also interested in
-Security (Cisco CyberOps Associate), reverse engineering, biology and linguistics.
+Security (Cisco CyberOps Associate), biology and linguistics.
